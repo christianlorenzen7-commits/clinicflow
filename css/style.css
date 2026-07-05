@@ -32,11 +32,10 @@ header {
     align-items: center;
 }
 
-.logo {
-    color: white;
-    text-decoration: none;
-    font-size: 28px;
-    font-weight: bold;
+.logo img {
+    height: 55px;
+    width: auto;
+    display: block;
 }
 
 .nav-links {
